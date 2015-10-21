@@ -1,0 +1,2 @@
+1) hit shift + impScreen
+2) select the screen zone to capture
